@@ -1,0 +1,3 @@
+数据类型简介：
+   数据类型包括Python数据类型、Numpy数据类型和Pytorch中的tensor，Pytorch中的tensor又包括CPU上的数据类型和GPU上的数据类型。
+   
